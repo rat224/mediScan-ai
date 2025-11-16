@@ -1,0 +1,231 @@
+--- ORIGINAL REPORT (extracted) ---
+
+Sunrise General Hospital
+
+Central Diagnostic Laboratory
+
+Report Title: Complete Blood Count (CBC)
+
+Report Title: Complete Blood Count (CBC)
+Name: Rahul Sharma (Fictional)
+Patient ID: SGH-2025-000742
+
+Age / Sex: 34 years / Male
+
+Referring Physician:
+Department:
+Sample Type:
+
+Date of Collection:
+Date of Report:
+
+Test Results — Complete Blood Count
+
+Test , Result
+. Hemoglobin (Hb) , 13.8
+. Hematocrit (HCT) , 41.2
+. Red Blood Cells (RBC) , 4.52
+. Mean Corpuscular Volume (MCV) , 91
+. Mean Corpuscular Hemoglobin (MCH) , 30.5
+. Mean Corpuscular Hemoglobin Conc. (MCHC) 33.5
+. Red Cell Distribution Width (RDW-CV) , 12.6
+. White Blood Cells (WBC) , 7.4
+. Neutrophils , 58
+. Lymphocytes , 32
+. Monocytes , 6
+. Eosinophils , 3
+. Basophils , 4
+. Platelet Count , 245
+
+Laboratory Comments / Interpretation:
+
+Dr. Meera Kapoor
+General Medicine
+Venous Blood (EDTA)
+November 12, 2025
+November 12, 2025
+
+, Unit
+, g/dL
+%
+1041 2/L
+fl
+Pg
+g/dL
+%
+10°9/L
+%
+%
+%
+%
+%
+10°9/L
+
+* Complete Blood Count is within normal limits for an adult male.
+* No evidence of anemia, leukocytosis, or thrombocytopenia based on the values reported.
+
++ Differential count shows a normal distribution of leukocyte subtypes.
+
+Reference Range (Adult Male)
+13.5-17.5
+41-53
+45-59
+80 - 100
+27 - 33
+
+32 - 36
+11.5-14.5
+4.0-11.0
+40-75
+
+20 - 45
+2-8
+
+0-6
+
+0-2
+
+150 - 450
+
+Note: Laboratory findings should always be interpreted in the clinical context of the patient. If symptoms
+persist or clinical concern exists, correlate with physician and consider further testing (e.g., peripheral
+
+smear, iron studies, inflammatory markers).
+
+Methodology: Automated hematology analyzer (Impedance and flow cytometry principles). Quality controls
+
+run daily.
+
+Performed by: Sunrise Central Diagnostic Lab
+Authorized by:
+
+Dr. Meera Kapoor, MD (Pathology)
+
+Signature:
+Contact: +91-22-5555-0100 | lab@sunrisehospital.example
+
+Disclaimers:
+
+This is a demo/fictitious report created for demonstration purposes only. Any resemblance to real persons
+or institutions is coincidental. For official medical reports, please consult an accredited laboratory and a
+licensed physician.
+
+
+
+
+--- TRANSLATION: Malayalam (ml) ---
+
+[Translation not available — showing original]
+
+Sunrise General Hospital
+
+Central Diagnostic Laboratory
+
+Report Title: Complete Blood Count (CBC)
+
+Report Title: Complete Blood Count (CBC)
+Name: Rahul Sharma (Fictional)
+Patient ID: SGH-2025-000742
+
+Age / Sex: 34 years / Male
+
+Referring Physician:
+Department:
+Sample Type:
+
+Date of Collection:
+Date of Report:
+
+Test Results — Complete Blood Count
+
+Test , Result
+. Hemoglobin (Hb) , 13.8
+. Hematocrit (HCT) , 41.2
+. Red Blood Cells (RBC) , 4.52
+. Mean Corpuscular Volume (MCV) , 91
+. Mean Corpuscular Hemoglobin (MCH) , 30.5
+. Mean Corpuscular Hemoglobin Conc. (MCHC) 33.5
+. Red Cell Distribution Width (RDW-CV) , 12.6
+. White Blood Cells (WBC) , 7.4
+. Neutrophils , 58
+. Lymphocytes , 32
+. Monocytes , 6
+. Eosinophils , 3
+. Basophils , 4
+. Platelet Count , 245
+
+Laboratory Comments / Interpretation:
+
+Dr. Meera Kapoor
+General Medicine
+Venous Blood (EDTA)
+November 12, 2025
+November 12, 2025
+
+, Unit
+, g/dL
+%
+1041 2/L
+fl
+Pg
+g/dL
+%
+10°9/L
+%
+%
+%
+%
+%
+10°9/L
+
+* Complete Blood Count is within normal limits for an adult male.
+* No evidence of anemia, leukocytosis, or thrombocytopenia based on the values reported.
+
++ Differential count shows a normal distribution of leukocyte subtypes.
+
+Reference Range (Adult Male)
+13.5-17.5
+41-53
+45-59
+80 - 100
+27 - 33
+
+32 - 36
+11.5-14.5
+4.0-11.0
+40-75
+
+20 - 45
+2-8
+
+0-6
+
+0-2
+
+150 - 450
+
+Note: Laboratory findings should always be interpreted in the clinical context of the patient. If symptoms
+persist or clinical concern exists, correlate with physician and consider further testing (e.g., peripheral
+
+smear, iron studies, inflammatory markers).
+
+Methodology: Automated hematology analyzer (Impedance and flow cytometry principles). Quality controls
+
+run daily.
+
+Performed by: Sunrise Central Diagnostic Lab
+Authorized by:
+
+Dr. Meera Kapoor, MD (Pathology)
+
+Signature:
+Contact: +91-22-5555-0100 | lab@sunrisehospital.example
+
+Disclaimers:
+
+This is a demo/fictitious report created for demonstration purposes only. Any resemblance to real persons
+or institutions is coincidental. For official medical reports, please consult an accredited laboratory and a
+licensed physician.
+
+
+
